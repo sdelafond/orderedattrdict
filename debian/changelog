@@ -1,3 +1,11 @@
+python-orderedattrdict (1.5.1-1) unstable; urgency=medium
+
+  * Didn't mean to orphan that one
+  * New upstream version 1.5.1
+  * Bump up Standards-Version
+
+ -- Sebastien Delafond <seb@debian.org>  Thu, 19 Dec 2019 17:41:41 +0100
+
 python-orderedattrdict (1.5-2) unstable; urgency=medium
 
   * Set maintainer to Debian QA Group
