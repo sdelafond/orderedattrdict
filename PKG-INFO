@@ -1,6 +1,6 @@
 Metadata-Version: 1.1
 Name: orderedattrdict
-Version: 1.5
+Version: 1.5.1
 Summary: OrderedDict with attribute-style access
 Home-page: https://github.com/sanand0/orderedattrdict
 Author: S Anand
@@ -143,7 +143,7 @@ Description: orderedattrdict
             flake8 .
             python setup.py test
         
-        Update version in ``setup.py`` and commit. Then::
+        Update version in ``setup.py`` and Changelog below. Then commit. Then::
         
             git tag -a v1.x.x           # Annotate with a one-line summary of features
             git push --follow-tags
@@ -161,6 +161,7 @@ Description: orderedattrdict
         - ``1.4.1``: Add ``CounterAttrDict`` and ``DefaultAttrDict``
         - ``1.4.2``: Add Python 3.5 support
         - ``1.4.3``: Fix bdist installation issues for Python 2.7
+        - ``1.5``: Add ``Tree`` data structure
         
 Keywords: ordereddict ordered map attrdict tree conf config configuration yaml json
 Platform: UNKNOWN
