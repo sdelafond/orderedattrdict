@@ -1,3 +1,9 @@
+python-orderedattrdict (1.5-2) unstable; urgency=medium
+
+  * Set maintainer to Debian QA Group
+
+ -- Sebastien Delafond <seb@debian.org>  Thu, 19 Dec 2019 15:11:08 +0100
+
 python-orderedattrdict (1.5-1) unstable; urgency=low
 
   * First upload (Closes: #894430)
